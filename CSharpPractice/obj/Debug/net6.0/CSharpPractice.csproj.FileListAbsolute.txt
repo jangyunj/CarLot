@@ -1,0 +1,15 @@
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\bin\Debug\net6.0\CSharpPractice.exe
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\bin\Debug\net6.0\CSharpPractice.deps.json
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\bin\Debug\net6.0\CSharpPractice.runtimeconfig.json
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\bin\Debug\net6.0\CSharpPractice.dll
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\bin\Debug\net6.0\CSharpPractice.pdb
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.csproj.AssemblyReference.cache
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.AssemblyInfoInputs.cache
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.AssemblyInfo.cs
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.dll
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\refint\CSharpPractice.dll
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.pdb
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\CSharpPractice.genruntimeconfig.cache
+C:\Users\hwait\Desktop\C#\C#Practice\CSharpPractice\CSharpPractice\obj\Debug\net6.0\ref\CSharpPractice.dll
